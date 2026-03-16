@@ -1,0 +1,14 @@
+# Algorand Voting DApp - Python Dependencies
+
+# Algorand SDK
+py-algorand-sdk==2.7.0
+
+# Smart contract language
+PyTeal==0.20.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Testing
+pytest==7.4.0
